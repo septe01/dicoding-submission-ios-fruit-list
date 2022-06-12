@@ -7,7 +7,7 @@ iOS application to display a list for the following description of the fruit its
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/septe01/dicoding-submission-ios-fruit-list.git
 ```
 
 Go to the project directory
@@ -16,14 +16,20 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
+select the simulator
 
 ```bash
-  npm install
+  you can use real device or simulator
 ```
 
-Start the server
+Start the project
 
 ```bash
-  npm run start
+  cmd + r
 ```
+
+package in this project
+
+- alamofire
+- swiftyJSON
+- sdwebImage
