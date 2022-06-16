@@ -32,4 +32,3 @@ package in this project
 
 - alamofire
 - swiftyJSON
-- sdwebImage

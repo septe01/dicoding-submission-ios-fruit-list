@@ -11,33 +11,6 @@
         }
       },
       {
-        "package": "FLAnimatedImage",
-        "repositoryURL": "https://github.com/Flipboard/FLAnimatedImage.git",
-        "state": {
-          "branch": null,
-          "revision": "e7f9fd4681ae41bf6f3056db08af4f401d61da52",
-          "version": "1.0.16"
-        }
-      },
-      {
-        "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
-        "state": {
-          "branch": null,
-          "revision": "2e63d0061da449ad0ed130768d05dceb1496de44",
-          "version": "5.12.5"
-        }
-      },
-      {
-        "package": "SDWebImageFLPlugin",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImageFLPlugin.git",
-        "state": {
-          "branch": null,
-          "revision": "40ea0e7c28189fcae5f03e5bc9acf2771ea0b224",
-          "version": "0.6.0"
-        }
-      },
-      {
         "package": "SwiftyJSON",
         "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
         "state": {
